@@ -1,66 +1,67 @@
-# Hi, I'm Ganesh Prabu 👋  
-
-💻 Full-Stack Developer | 🚀 Tech Explorer | 🎯 Lifelong Learner  
-
-Welcome to my GitHub profile!  
-I’m passionate about building impactful projects, experimenting with new technologies, and continuously learning.  
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Ganesh Prabu</h1>
+<h3 align="center">🚀 Aspiring Data Analyst | Python | SQL | MongoDB | Java</h3>
 
 ---
 
-## ⚡ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabu411&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabu411&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+## 🌟 About Me  
+I am a dedicated and detail-oriented individual with a **Diploma in Computer Applications (DCP)**, where I gained proficiency in **C and C++**.  
+I also hold an **Advanced Development in Java Programming (ADJP)** certification, which enhanced my expertise in **Java, HTML, and CSS**.  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prabu411&theme=neon-dark&hide_border=true" height="160"/>
-</p>
+✅ Completed **Python with SQL Connector & MongoDB** training  
+✅ Strong foundation in **Backend Development + Database Management**  
+✅ Passionate about **Data Analytics, Business Insights, and Problem Solving**  
+
+💡 My goal: To become a **Data Analyst** who transforms raw data into meaningful insights.  
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Skills & Tools  
+
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <!-- Programming -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
-- 🎬 [**StreamFlix**](https://github.com/prabu411/streamflix) – Django-based video platform with FFmpeg  
-- 🤖 [**Taxora**](https://github.com/prabu411/taxora) – AI-powered personal finance chatbot  
-- 🔄 [**Barter Connect**](https://github.com/prabu411/barter-connect-hub) – React + Vite web app  
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://ganeshprabu48.wordpress.com"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
-  <a href="https://twitter.com/Ganeshprab87290"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/_ganesh__prabu_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-## 🎉 Fun Zone
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
-</p>
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prabu411&color=ff69b4&style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prabu411&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabu411&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabu411&layout=compact&theme=tokyonight" alt="languages"/>
 </p>
-
-![snake gif](https://github.com/prabu411/prabu411/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-> 🌟 *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+## 🌱 Activity Graph  
+
+[![Ganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prabu411&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://ganeshprabu48.wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ganesh-prabu-7b2a28318" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/Ganeshprab87290" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/_ganesh__prabu_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+## ✨ Fun Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
