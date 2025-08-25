@@ -55,4 +55,8 @@ Welcome to my GitHub profile! I love building real-world projects with modern te
 ![Profile views](https://komarev.com/ghpvc/?username=prabu411&color=brightgreen)
 [![trophy](https://github-profile-trophy.vercel.app/?username=prabu411&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=prabu411&theme=onedark&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
