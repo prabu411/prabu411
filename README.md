@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ganesh Prabu</h1>
 <h3 align="center">🚀 Aspiring Data Analyst | Python | SQL | MongoDB | Java</h3>
-<h4 Code is Like humor when you have Explain it,It's Bad </h4>
+<h3 Code is Like humor when you have Explain it,It's Bad </h3>
 
 ---
 
