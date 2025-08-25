@@ -67,16 +67,3 @@ I also hold an **Advanced Development in Java Programming (ADJP)** certification
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
-# .github/workflows/python.yml
-name: CI
-on: [push, pull_request]
-jobs:
-  test:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v4
-        with: python-version: '3.11'
-      - run: pip install -r requirements.txt
-      - run: pytest --maxfail=1 -q
-
