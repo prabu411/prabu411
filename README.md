@@ -1,11 +1,12 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ganesh Prabu</h1>
 
+<!-- Blinking/Typing animation (works on GitHub) -->
 <h3 align="center">
-  🚀 
-  <marquee behavior="alternate" scrollamount="6">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=435&lines=🌟+Aspiring+Data+Analyst+🌟" alt="Typing SVG" />
-  </marquee>
+  🚀
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1400&pause=700&center=true&vCenter=true&repeat=true&random=false&width=520&lines=Aspiring+Data+Analyst"
+    alt="Aspiring Data Analyst (typing animation)" />
 </h3>
 
 <h3 align="center">💻 Code is Like Humor — When You Have to Explain It, It's Bad 😅</h3>
