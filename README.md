@@ -1,7 +1,14 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ganesh Prabu</h1>
-<h3 align="center">🚀 Aspiring Data Analyst | Python | SQL | MongoDB | Java</h3>
-<h3 Code is Like humor when you have Explain it,It's Bad </h3>
+
+<h3 align="center">
+  🚀 
+  <marquee behavior="alternate" scrollamount="6">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=435&lines=🌟+Aspiring+Data+Analyst+🌟" alt="Typing SVG" />
+  </marquee>
+</h3>
+
+<h3 align="center">💻 Code is Like Humor — When You Have to Explain It, It's Bad 😅</h3>
 
 ---
 
@@ -66,4 +73,3 @@ I also hold an **Advanced Development in Java Programming (ADJP)** certification
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
-
